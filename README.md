@@ -2,8 +2,8 @@
 > The only official places to download coin are this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
-    <img src="Images/coin-full-dark.png#gh-dark-mode-only" width="420">
-    <img src="Images/coin-full-light.png#gh-light-mode-only" width="420">
+    <img src="Images/coin-full-dark.png#gh-dark-mode-only" width="800">
+    <img src="Images/coin-full-light.png#gh-light-mode-only" width="800">
 </p>
 
 <div align="center">
