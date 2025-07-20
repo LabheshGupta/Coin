@@ -14,7 +14,6 @@
 [![Downloads][shield-repo-releases]][repo-releases]
 [![Version][shield-repo-latest]][repo-latest]
 [![Discord][shield-discord-server]][discord-invite]
-[![lol][shield-tenor-meme]][tenor-gif]
 
 </div>
 
@@ -69,17 +68,11 @@ Bloxstrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the use
 
 [shield-crowdin-status]: https://badges.crowdin.net/bloxstrap/localized.svg
 [shield-discord-server]: https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff
-[shield-tenor-meme]:     https://img.shields.io/badge/mom_made-pizza_rolls-orange
 
 [repo-license]:  https://github.com/bloxstraplabs/bloxstrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/bloxstraplabs/bloxstrap/actions
-[repo-releases]: https://github.com/bloxstraplabs/bloxstrap/releases
+[repo-actions]:  https://github.com/LabheshGupta/Coin/actions
+[repo-releases]: https://github.com/LabheshGupta/Coin/releases
 [repo-latest]:   https://github.com/bloxstraplabs/bloxstrap/releases/latest
 
 [crowdin-project]: https://crowdin.com/project/bloxstrap
-[discord-invite]:  https://discord.gg/nKjV3mGq6R
-[tenor-gif]:       https://media.tenor.com/FIkSGbGycmAAAAAd/manly-roblox.gif
-
-## Code signing policy
-
-Thanks to [SignPath.io](https://signpath.io/) for providing a free code signing service, and the [SignPath Foundation](https://signpath.org/) for providing the free code signing certificate.
+[discord-invite]:  https://discord.gg/
