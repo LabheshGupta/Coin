@@ -50,4 +50,5 @@ Once installed, Coin is added to your Start Menu, where you can access the menu 
 ## Code
 
 (Coin) Bloxstrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
+
 Dev and Maintained by: [7bt](http://7bt.vercel.app)
