@@ -2,8 +2,8 @@
 > The only official places to download coin are this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
-    <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/coin-full-dark.png#gh-dark-mode-only" width="420">
-    <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/coin-full-light.png#gh-light-mode-only" width="420">
+    <img src="Images/coin-full-dark.png#gh-dark-mode-only" width="420">
+    <img src="Images/coin-full-light.png#gh-light-mode-only" width="420">
 </p>
 
 <div align="center">
